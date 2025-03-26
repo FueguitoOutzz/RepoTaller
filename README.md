@@ -1,4 +1,5 @@
 # RepoTaller
 
-> [!WARNING]
-Hola, es esto un conflicto?!
+>[!NOTE]
+>Hola soy Renato
+
