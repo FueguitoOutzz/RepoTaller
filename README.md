@@ -1,4 +1,4 @@
 # RepoTaller
 
-[!NOTE]
-Hola soy Renato
+>[!NOTE]
+>Hola soy Renato
