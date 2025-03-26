@@ -5,5 +5,5 @@ Hola, soy Javiera
 >[!NOTE]
 >Hola soy Renato
 
->[!URGENT]
+>[!TIP]
 >Hola soy Daniel
